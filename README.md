@@ -1,6 +1,6 @@
 # MDSManager2012
-MDS (Master Data Services) Management Tool, implemented using windows forms.
-
+MDS (Master Data Services) Management Tool, implemented using windows forms.<br/>
+<a href= "http://legacy.averbouch.biz/master-data-services-manager/" target="_blank">http://legacy.averbouch.biz/master-data-services-manager/</a><br/> 
 This tool contains examples on how to use the MDS API, as well as few features which currently are not present in MDS, such as exporting and importing of model privileges.
 <br/><br/>
 Main features
