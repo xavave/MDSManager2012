@@ -13,11 +13,11 @@ Several actions on models, entities, members, attributes, versions and flags<br/
 <br/>
 <strong>Contributors</strong>
 <br/>
-Xavier Averbouch
+<strong>Xavier Averbouch</strong>
 <br/>
 find me on Viadeo : Xavier Averbouch
 <br/>
-or on linkedin and on my blog : <a href="http://averbouch.biz" target="_blank">http://averbouch.biz</a>
+or on <a href="https://fr.linkedin.com/in/xavieraverbouch" target="_blank">LinkedIn</a> and on my blog : <a href="http://averbouch.biz" target="_blank">http://averbouch.biz</a>
 <br/>
 <strong>Half Scheidl</strong>
 <br/>
