@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ApplicationIcon>basic-data.ico</ApplicationIcon>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35113BF0-4FD0-4C63-8517-88DA8E7D450E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MDSManager2012.Desktop</RootNamespace>
+    <AssemblyName>MDSManager2012</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppLogic\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppLogic\MDSDataUtils.cs" />
+    <Compile Include="AppLogic\BusinessRulesCopyOptions.cs" />
+    <Compile Include="AppLogic\Constants.cs" />
+    <Compile Include="AppLogic\ModalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BRCopyOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BRCopyOptions.Designer.cs">
+      <DependentUpon>BRCopyOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessRulesManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigurationManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PermissionsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EntityManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppLogic\Extensions.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppLogic\MainConfiguration.cs" />
+    <Compile Include="ModelDiagramManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppLogic\ModellingDataContext.cs" />
+    <Compile Include="PackageDeployment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs">
+      <SubType>
+      </SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\ucManageEntities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucManageEntities.Designer.cs">
+      <DependentUpon>ucManageEntities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucManageMembers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucManageMembers.Designer.cs">
+      <DependentUpon>ucManageMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppLogic\UIHelper.cs" />
+    <Compile Include="UserRightsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="BRCopyOptions.resx">
+      <DependentUpon>BRCopyOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusinessRulesManager.resx">
+      <DependentUpon>BusinessRulesManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigurationManager.resx">
+      <DependentUpon>ConfigurationManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PermissionsManager.resx">
+      <DependentUpon>PermissionsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EntityManager.resx">
+      <DependentUpon>EntityManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelDiagramManager.resx">
+      <DependentUpon>ModelDiagramManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageDeployment.resx">
+      <DependentUpon>PackageDeployment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControls\ucManageEntities.resx">
+      <DependentUpon>ucManageEntities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ucManageMembers.resx">
+      <DependentUpon>ucManageMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserRightsManager.resx">
+      <DependentUpon>UserRightsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\add-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Button-Refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\export-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\import-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\info_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\monitor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\pn-add-source-copy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\validate-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\MDSManager.Common.csproj">
+      <Project>{bb14039d-bc2d-4319-8c86-3ed1bb4072d9}</Project>
+      <Name>MDSManager.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="basic-data.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

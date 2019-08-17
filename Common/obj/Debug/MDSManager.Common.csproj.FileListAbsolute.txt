@@ -1,0 +1,12 @@
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\MDSManager2012.Common.dll.config
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\MDSManager2012.Common.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\MDSManager2012.Common.pdb
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\obj\Debug\MDSManager.Common.csprojAssemblyReference.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\obj\Debug\MDSManager.Common.csproj.CoreCompileInputs.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\obj\Debug\MDSManager.Common.csproj.CopyComplete
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\obj\Debug\MDSManager2012.Common.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\Common\obj\Debug\MDSManager2012.Common.pdb

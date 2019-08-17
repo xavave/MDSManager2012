@@ -1,0 +1,16 @@
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager.Common.Tests.dll.config
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager.Common.Tests.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager.Common.Tests.pdb
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager2012.Common.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager2012.Common.pdb
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\bin\Debug\MDSManager2012.Common.dll.config
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\obj\Debug\MDSManager.Common.Tests.csprojAssemblyReference.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\obj\Debug\MDSManager.Common.Tests.csproj.CoreCompileInputs.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\obj\Debug\MDSManager.Common.Tests.csproj.CopyComplete
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\obj\Debug\MDSManager.Common.Tests.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager.Common.Tests\obj\Debug\MDSManager.Common.Tests.pdb

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5ec4c67f-39ad-4e4b-8ae5-2eaf0567da34" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:81/Service/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service11.wsdl" MetadataType="Wsdl" ID="7cdca5c2-36e3-4712-944e-b341c1a89f59" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?wsdl" />
+    <MetadataFile FileName="Service11.disco" MetadataType="Disco" ID="8a4d52ad-262d-40c1-b0b4-16b5cbf55b05" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?disco" />
+    <MetadataFile FileName="Service55.xsd" MetadataType="Schema" ID="01252ae2-6be3-46bb-b838-2e4f9d4a0427" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service56.xsd" MetadataType="Schema" ID="bd9a2e7a-625e-476f-bf2c-4047396e32dc" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd3" />
+    <MetadataFile FileName="Service57.xsd" MetadataType="Schema" ID="57fe45b3-e2f9-4749-9be5-799c8bbdee5c" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service58.xsd" MetadataType="Schema" ID="77faf5a8-8c82-48d0-bca1-378209998d5d" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service59.xsd" MetadataType="Schema" ID="4229178a-2c3f-4f68-badb-9cfc50661c05" SourceId="1" SourceUrl="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,8 @@
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\bin\Debug\MDSManager2012.Console.exe
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\bin\Debug\MDSManager2012.Console.pdb
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\bin\Debug\NDesk.Options.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\obj\Debug\MDSManager2012.Console.csprojAssemblyReference.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\obj\Debug\MDSManager2012.Console.csproj.CoreCompileInputs.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\obj\Debug\MDSManager2012.Console.csproj.CopyComplete
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\obj\Debug\MDSManager2012.Console.exe
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\MDSManager2012.Console\obj\Debug\MDSManager2012.Console.pdb

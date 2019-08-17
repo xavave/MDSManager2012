@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="Domain" value="[Domain]"/>
+    <add key="UserName" value="[USERNAME]"/>
+    <add key="Password" value="[PASSWORD]"/>
+    <add key="ModelName" value="[NAME OF THE MODEL]"/>
+    <add key="MDSInstance1" value="http://fischeihal01:81/service/service.svc"/>
+    <add key="MDSInstance2" value="http://fischeihal01:82/service/service.svc"/>
+
+    <add key="UserToExport" value="[USER ACCOUNT WITH DOMAIN TO USE IN UNIT TESTS"/>
+  </appSettings>
+</configuration>

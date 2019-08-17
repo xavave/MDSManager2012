@@ -1,0 +1,16 @@
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\bin\Debug\WpfMDSCopyEntities.exe
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\bin\Debug\WpfMDSCopyEntities.pdb
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\bin\Debug\Microsoft.MasterDataServices.ExcelAddIn.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\bin\Debug\Microsoft.MasterDataServices.ExcelAddInCore.dll
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.csprojAssemblyReference.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\MainWindow.baml
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\MainWindow.g.cs
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\App.g.cs
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities_MarkupCompile.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.g.resources
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\Microsoft.Properties.Resources.resources
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.csproj.GenerateResource.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.csproj.CoreCompileInputs.cache
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.csproj.CopyComplete
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.exe
+D:\Downloads\MDSManager\sourceCode\MDSManager2012\WpfMDSCopyEntities\obj\x86\Debug\WpfMDSCopyEntities.pdb

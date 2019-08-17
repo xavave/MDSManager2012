@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.w3.org/2005/09/ws-i18n" elementFormDefault="qualified" targetNamespace="http://www.w3.org/2005/09/ws-i18n" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://fischeihal01.fi.dom:81/service/Service.svc?xsd=xsd0" namespace="http://schemas.microsoft.com/sqlserver/masterdataservices/2009/09" />
+  <xs:complexType name="International">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.microsoft.com/sqlserver/masterdataservices/2009/09" base="q1:DataContractBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Locale" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Tz" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="International" nillable="true" type="tns:International" />
+</xs:schema>
