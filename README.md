@@ -35,3 +35,4 @@ Minor fixes: solution in .net framework 4.0 Full Profile;  resolved some project
 <br/>
 2013-02-21 MDS Manager 2012 Beta Release 1.0.0.0
 <br/>
+<img src="http://averbouch.biz/mdsmanagerDesktop.PNG"/>
