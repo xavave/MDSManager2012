@@ -23,7 +23,7 @@ or on <a href="https://fr.linkedin.com/in/xavieraverbouch" target="_blank">Linke
 <br/>
 IT Consultant, specialist in Master Data Services and Business Intelligence.
 <br/>
-<a href="http://www.linkedin.com/in/scheidlhalf" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/scheidlh" target="_blank">LinkedIn</a>
 <br/>
 News and updates
 <br/>
